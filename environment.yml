@@ -7,3 +7,4 @@ dependencies:
   - ipython
   - pandas
   - scikit-learn
+  - emacs
