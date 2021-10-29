@@ -6,4 +6,4 @@ dependencies:
   - nibabel
   - ipython
   - pandas
-  - sklearn
+  - scikit-learn
